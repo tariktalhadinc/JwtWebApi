@@ -30,3 +30,8 @@ C:\Users\t.dinc\Desktop\API\JwtWebApi\obj\Debug\net6.0\refint\JwtWebApi.dll
 C:\Users\t.dinc\Desktop\API\JwtWebApi\obj\Debug\net6.0\JwtWebApi.pdb
 C:\Users\t.dinc\Desktop\API\JwtWebApi\obj\Debug\net6.0\JwtWebApi.genruntimeconfig.cache
 C:\Users\t.dinc\Desktop\API\JwtWebApi\obj\Debug\net6.0\ref\JwtWebApi.dll
+C:\Users\t.dinc\Desktop\API\JwtWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\t.dinc\Desktop\API\JwtWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\t.dinc\Desktop\API\JwtWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\t.dinc\Desktop\API\JwtWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\t.dinc\Desktop\API\JwtWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
